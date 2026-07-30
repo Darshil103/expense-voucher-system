@@ -179,9 +179,11 @@ The backend was manually smoke-tested end-to-end during development (register/lo
 
 ## 🎥 Application Walkthrough
 
-<div align="center">
-  <video src="https://github.com/user-attachments/assets/f2a7b696-aa7b-44db-855a-dde2e8e86772" width="100%" controls></video>
-</div>
+
+
+https://github.com/user-attachments/assets/b8cf8a46-561d-4050-a860-50a6504488d0
+
+
 
 
 
