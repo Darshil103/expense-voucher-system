@@ -177,6 +177,14 @@ Enforced server-side (not just hidden in the UI) via JWT + a role-check middlewa
 
 The backend was manually smoke-tested end-to-end during development (register/login → create voucher with signature upload → submit → Director approve with signature → appears correctly in Accounts' filtered list), and the frontend was built with `npm run build` to confirm a clean production bundle.
 
-## Screenshots
+## 🎥 Application Walkthrough
+## 🎥 Application Walkthrough
 
-Not included in this submission — see the demo credentials above to explore the live application directly.
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/e8fded0e-6f18-43a2-933f-4480e613544" width="100%" controls></video>
+</div>
+
+
+
+
+
