@@ -1,0 +1,11 @@
+node_modules/
+.env
+uploads/signatures/*
+!uploads/signatures/.gitkeep
+*.log
+dist/
+coverage/
+.DS_Store
+*.sqlite
+database.sqlite
+database.sqlite-journal
