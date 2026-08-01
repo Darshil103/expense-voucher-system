@@ -7,13 +7,19 @@ A full-stack web application that digitizes the employee expense voucher lifecyc
 
 
 https://github.com/user-attachments/assets/b8cf8a46-561d-4050-a860-50a6504488d0
-
+## Landing Page
 <img width="1600" height="820" alt="WhatsApp Image 2026-08-01 at 12 31 15" src="https://github.com/user-attachments/assets/26bf916d-c0b0-4982-94d8-a09d88e87a68" />
+## Employee Self-Registration
 <img width="1600" height="819" alt="WhatsApp Image 2026-08-01 at 12 31 47" src="https://github.com/user-attachments/assets/f778476c-c83b-4ff1-9126-f9f5d0d493bb" />
+## Corporate Portal Sign In
 <img width="1600" height="809" alt="WhatsApp Image 2026-08-01 at 12 32 07" src="https://github.com/user-attachments/assets/963d1b2f-a0a2-4c00-acf9-a6d3ef000c05" />
+## Employee Dashboard
 <img width="1600" height="818" alt="WhatsApp Image 2026-08-01 at 12 32 51" src="https://github.com/user-attachments/assets/9c887818-4608-45c5-9966-60c24e96963c" />
+## New Voucher Request (Form – Top)
 <img width="1600" height="818" alt="WhatsApp Image 2026-08-01 at 12 32 51" src="https://github.com/user-attachments/assets/2764efb8-9af9-4674-9fec-cc36c63ba033" />
+## New Voucher Request (Form – Bottom)
 <img width="1600" height="825" alt="WhatsApp Image 2026-08-01 at 12 33 44" src="https://github.com/user-attachments/assets/28980cb4-11ee-4557-b3fd-5cd9836aec6d" />
+## My Vouchers
 <img width="1600" height="822" alt="WhatsApp Image 2026-08-01 at 12 34 01" src="https://github.com/user-attachments/assets/b476ca9b-95bb-40b0-b769-4c2060d3895f" />
 <img width="1600" height="809" alt="WhatsApp Image 2026-08-01 at 12 34 32" src="https://github.com/user-attachments/assets/4bf29fd2-d935-40dc-aa17-b3fd4241cc56" />
 <img width="1600" height="821" alt="WhatsApp Image 2026-08-01 at 12 37 11" src="https://github.com/user-attachments/assets/b6fc6852-164e-4fab-a357-dffbab49a10b" />
