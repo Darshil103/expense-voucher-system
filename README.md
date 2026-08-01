@@ -2,6 +2,43 @@
 
 A full-stack web application that digitizes the employee expense voucher lifecycle — creation, submission, Director approval/rejection, and Accounts Team reimbursement tracking — built as a Full Stack Developer Internship assignment for **Prachay Securities Private Limited (PSPL)**.
 
+## 🎥 Application Walkthrough
+
+
+
+https://github.com/user-attachments/assets/b8cf8a46-561d-4050-a860-50a6504488d0
+
+
+12:31
+
+12:31
+
+12:32
+
+12:32
+
+12:33
+
+12:33
+
+12:34
+
+12:34
+
+12:37
+
+12:37
+
+12:37
+
+12:38
+
+12:38
+
+12:39
+
+12:40
+
 ## Tech Stack
 
 | Layer      | Technology |
@@ -176,12 +213,6 @@ Enforced server-side (not just hidden in the UI) via JWT + a role-check middlewa
 ## Running Tests / Verifying the Build
 
 The backend was manually smoke-tested end-to-end during development (register/login → create voucher with signature upload → submit → Director approve with signature → appears correctly in Accounts' filtered list), and the frontend was built with `npm run build` to confirm a clean production bundle.
-
-## 🎥 Application Walkthrough
-
-
-
-https://github.com/user-attachments/assets/b8cf8a46-561d-4050-a860-50a6504488d0
 
 
 
